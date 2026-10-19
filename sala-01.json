@@ -1,0 +1,268 @@
+{
+  "associacao": "Associação Espírita Reviver",
+  "sala": "Sala 01",
+  "nomeSala": "Sala do Evangelho",
+  "geradoEm": "2026-10-19T20:21:35.563Z",
+  "palestras": [
+    {
+      "data": "2026-10-20",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 57,
+      "tema": "Cap. XIV - Itens 1 a 4",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Welder",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-10-27",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 58,
+      "tema": "Cap. XIV - Itens 5 a 7",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Welder",
+      "status": "confirmado"
+    },
+    {
+      "data": "2026-11-03",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": null,
+      "tema": "Palestra Especial (Finados)",
+      "temaEspecial": true,
+      "descricao": null,
+      "palestrante": "Ana Maria",
+      "status": "confirmado"
+    },
+    {
+      "data": "2026-11-10",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 59,
+      "tema": "Cap. XIV - Itens 8 e 9",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Jessica",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-11-17",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 60,
+      "tema": "Cap. XV – Itens 1 a 3",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Welder",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-11-24",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 61,
+      "tema": "Cap. XV – Itens 4 e 5",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-12-01",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 62,
+      "tema": "Cap. XV – Itens 6 a 10",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Jessica",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-12-08",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 63,
+      "tema": "Cap. XVI – Itens 1 a 6",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Welder",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-12-15",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 64,
+      "tema": "Cap. XVI – Itens 7 e 8",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Ana Maria",
+      "status": "sugerido"
+    },
+    {
+      "data": "2026-12-22",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": null,
+      "tema": "Especial de Natal",
+      "temaEspecial": true,
+      "descricao": null,
+      "palestrante": "Everton",
+      "status": "confirmado"
+    },
+    {
+      "data": "2026-12-29",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": null,
+      "tema": "Especial de Ano Novo",
+      "temaEspecial": true,
+      "descricao": null,
+      "palestrante": "Jessica",
+      "status": "confirmado"
+    },
+    {
+      "data": "2027-01-05",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 65,
+      "tema": "Cap. XVI – Itens 9 e 10",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Ana Maria",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-01-12",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 66,
+      "tema": "Cap. XVI – Itens 11 a 15",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Everton",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-01-19",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 67,
+      "tema": "Cap. XVII – Itens 1 a 3",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-01-26",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 68,
+      "tema": "Cap. XVII – Item 4",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Welder",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-02-02",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 69,
+      "tema": "Cap. XVII – Itens 5 a 8",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Ana Maria",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-02-09",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 70,
+      "tema": "Cap. XVII – Itens 9 a 11",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Jessica",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-02-16",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 71,
+      "tema": "Cap. XVIII – Item 1 e 2",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-02-23",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 72,
+      "tema": "Cap. XVIII – Itens 3 a 5",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Everton",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-03-02",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 73,
+      "tema": "Cap. XVIII – Itens 6 a 9",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-03-09",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 74,
+      "tema": "Cap. XVIII – Itens 10 a 16",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Welder",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-03-16",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 1,
+      "tema": "Introdução - Item I",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-03-23",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 2,
+      "tema": "Introdução - Item II",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Everton",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-03-30",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 3,
+      "tema": "Introdução - Item III",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-04-06",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 4,
+      "tema": "Introdução - Item IV",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Jessica",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-04-13",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 5,
+      "tema": "Cap. I – Itens 1 e 2",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
+      "status": "sugerido"
+    }
+  ]
+}
