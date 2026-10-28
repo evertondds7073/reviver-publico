@@ -2,18 +2,8 @@
   "associacao": "Associação Espírita Reviver",
   "sala": "Sala 01",
   "nomeSala": "Sala do Evangelho",
-  "geradoEm": "2026-10-26T01:19:15.287Z",
+  "geradoEm": "2026-10-28T18:34:59.348Z",
   "palestras": [
-    {
-      "data": "2026-10-27",
-      "diaSemana": "terça-feira",
-      "numeroNoCiclo": 58,
-      "tema": "Cap. XIV - Itens 5 a 7",
-      "temaEspecial": false,
-      "descricao": null,
-      "palestrante": "Welder",
-      "status": "confirmado"
-    },
     {
       "data": "2026-11-03",
       "diaSemana": "terça-feira",
@@ -262,6 +252,16 @@
       "temaEspecial": false,
       "descricao": null,
       "palestrante": "Ana Maria",
+      "status": "sugerido"
+    },
+    {
+      "data": "2027-04-27",
+      "diaSemana": "terça-feira",
+      "numeroNoCiclo": 7,
+      "tema": "Cap. I – Itens 5 e 8",
+      "temaEspecial": false,
+      "descricao": null,
+      "palestrante": "Clicia",
       "status": "sugerido"
     }
   ]
